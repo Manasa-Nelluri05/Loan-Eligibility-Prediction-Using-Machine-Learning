@@ -10,3 +10,4 @@
 # Fitting the models and evaluating the outputs
 # Printing the Confusion matrices of the evaluated models
 # Testing the model with real world data
+# verifying the outputs
